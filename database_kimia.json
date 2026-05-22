@@ -1,0 +1,668 @@
+[
+    {
+        "nama": "Asam Sulfat",
+        "rumus": "H2SO4",
+        "wujud": "Cair",
+        "warna": "Bening",
+        "bau": "Tidak Berbau",
+        "bahaya": "Korosif",
+        "kategori": "asam_kuat"
+    },
+    {
+        "nama": "Asam Klorida",
+        "rumus": "HCl",
+        "wujud": "Cair",
+        "warna": "Kuning Muda",
+        "bau": "Menyengat",
+        "bahaya": "Korosif",
+        "kategori": "asam_kuat"
+    },
+    {
+        "nama": "Asam Nitrat",
+        "rumus": "HNO3",
+        "wujud": "Cair",
+        "warna": "Bening",
+        "bau": "Menyengat",
+        "bahaya": "Korosif, Oksidator",
+        "kategori": "asam_kuat"
+    },
+    {
+        "nama": "Asam Asetat",
+        "rumus": "CH3COOH",
+        "wujud": "Cair",
+        "warna": "Bening",
+        "bau": "Cuka",
+        "bahaya": "Korosif, Mudah Terbakar",
+        "kategori": "asam_lemah"
+    },
+    {
+        "nama": "Natrium Hidroksida",
+        "rumus": "NaOH",
+        "wujud": "Padat (Pellet)",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Korosif",
+        "kategori": "basa_kuat"
+    },
+    {
+        "nama": "Amonia",
+        "rumus": "NH3",
+        "wujud": "Cair",
+        "warna": "Bening",
+        "bau": "Menyengat",
+        "bahaya": "Korosif",
+        "kategori": "basa_lemah"
+    },
+    {
+        "nama": "Etanol",
+        "rumus": "C2H5OH",
+        "wujud": "Cair",
+        "warna": "Bening",
+        "bau": "Alkohol",
+        "bahaya": "Mudah Terbakar",
+        "kategori": "organik_flamabel"
+    },
+    {
+        "nama": "Aseton",
+        "rumus": "CH3COCH3",
+        "wujud": "Cair",
+        "warna": "Bening",
+        "bau": "Ketone",
+        "bahaya": "Mudah Terbakar",
+        "kategori": "organik_flamabel"
+    },
+    {
+        "nama": "Kloroform",
+        "rumus": "CHCl3",
+        "wujud": "Cair",
+        "warna": "Bening",
+        "bau": "Manis Khas",
+        "bahaya": "Toksik",
+        "kategori": "organik_toksik"
+    },
+    {
+        "nama": "Kalium Permanganat",
+        "rumus": "KMnO4",
+        "wujud": "Padat",
+        "warna": "Ungu Tua",
+        "bau": "Tidak Berbau",
+        "bahaya": "Oksidator Kuat",
+        "kategori": "oksidator"
+    },
+    {
+        "nama": "Senyawa Uji 11",
+        "rumus": "X_11Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 12",
+        "rumus": "X_12Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 13",
+        "rumus": "X_13Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 14",
+        "rumus": "X_14Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 15",
+        "rumus": "X_15Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 16",
+        "rumus": "X_16Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 17",
+        "rumus": "X_17Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 18",
+        "rumus": "X_18Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 19",
+        "rumus": "X_19Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 20",
+        "rumus": "X_20Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 21",
+        "rumus": "X_21Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 22",
+        "rumus": "X_22Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 23",
+        "rumus": "X_23Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 24",
+        "rumus": "X_24Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 25",
+        "rumus": "X_25Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 26",
+        "rumus": "X_26Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 27",
+        "rumus": "X_27Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 28",
+        "rumus": "X_28Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 29",
+        "rumus": "X_29Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 30",
+        "rumus": "X_30Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 31",
+        "rumus": "X_31Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 32",
+        "rumus": "X_32Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 33",
+        "rumus": "X_33Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 34",
+        "rumus": "X_34Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 35",
+        "rumus": "X_35Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 36",
+        "rumus": "X_36Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 37",
+        "rumus": "X_37Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 38",
+        "rumus": "X_38Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 39",
+        "rumus": "X_39Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 40",
+        "rumus": "X_40Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 41",
+        "rumus": "X_41Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 42",
+        "rumus": "X_42Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 43",
+        "rumus": "X_43Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 44",
+        "rumus": "X_44Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 45",
+        "rumus": "X_45Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 46",
+        "rumus": "X_46Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 47",
+        "rumus": "X_47Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 48",
+        "rumus": "X_48Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 49",
+        "rumus": "X_49Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 50",
+        "rumus": "X_50Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 51",
+        "rumus": "X_51Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 52",
+        "rumus": "X_52Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 53",
+        "rumus": "X_53Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 54",
+        "rumus": "X_54Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 55",
+        "rumus": "X_55Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 56",
+        "rumus": "X_56Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 57",
+        "rumus": "X_57Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 58",
+        "rumus": "X_58Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 59",
+        "rumus": "X_59Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 60",
+        "rumus": "X_60Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 61",
+        "rumus": "X_61Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 62",
+        "rumus": "X_62Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 63",
+        "rumus": "X_63Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 64",
+        "rumus": "X_64Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 65",
+        "rumus": "X_65Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 66",
+        "rumus": "X_66Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 67",
+        "rumus": "X_67Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 68",
+        "rumus": "X_68Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 69",
+        "rumus": "X_69Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 70",
+        "rumus": "X_70Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 71",
+        "rumus": "X_71Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 72",
+        "rumus": "X_72Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 73",
+        "rumus": "X_73Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    },
+    {
+        "nama": "Senyawa Uji 74",
+        "rumus": "X_74Y",
+        "wujud": "Padat",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "bahaya": "Iritasi",
+        "kategori": "garam"
+    }
+]
