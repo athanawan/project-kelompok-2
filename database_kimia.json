@@ -1,225 +1,890 @@
 [
     {
-        "nama_senyawa": "Aluminium Klorida", "rumus_kimia": "AlCl3", "wujud": "Padat", "sifat": "Korosif", "warna": "Putih/Kuning", "bau": "Tajam (HCl)", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Sapu kering, jangan gunakan air secara langsung karena bereaksi eksotermis.", "pertolongan_pertama": "Bilas area mata atau kulit dengan air mengalir selama minimal 15 menit."
-    },
-    {
-        "nama_senyawa": "Aluminium Sulfat", "rumus_kimia": "Al2(SO4)3", "wujud": "Padat", "sifat": "Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan residu dan buang pada wadah khusus laboratorium.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Amilum (Pati)", "rumus_kimia": "(C6H10O5)n", "wujud": "Padat (Serbuk)", "sifat": "Aman", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu basah perlahan untuk menghindari debu berterbangan di udara.", "pertolongan_pertama": "Bilas mata dengan air bersih selama 15 menit jika terkena debu."
-    },
-    {
-        "nama_senyawa": "Amonia", "rumus_kimia": "NH3", "wujud": "Cair (Larutan)", "sifat": "Korosif, Toksik", "warna": "Bening", "bau": "Pesing Menyengat", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Gunakan masker respirator. Netralkan perlahan dengan asam encer dan serap dengan absorben.", "pertolongan_pertama": "Bilas mata atau kulit yang terkena dengan air mengalir selama minimal 15 menit."
-    },
-    {
-        "nama_senyawa": "Amonium Klorida", "rumus_kimia": "NH4Cl", "wujud": "Padat", "sifat": "Iritasi (Iritasi Mata Parah)", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu dan hindari pembentukan debu. Larutkan sisa tumpahan dengan air.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit dengan sabun."
-    },
-    {
-        "nama_senyawa": "Amonium Sulfat", "rumus_kimia": "(NH4)2SO4", "wujud": "Padat", "sifat": "Aman / Iritasi Ringan", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu bersih secara mekanis. Aman dibersihkan dengan air.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika ada debu yang masuk."
-    },
-    {
-        "nama_senyawa": "Asam Asetat Glacial", "rumus_kimia": "CH3COOH", "wujud": "Cair", "sifat": "Korosif, Mudah Terbakar", "warna": "Bening", "bau": "Cuka Menyengat", "lgk": "8A", "keterangan_lgk": "Bahan korosif mudah terbakar", "pengendalian_tumpahan": "Jauhkan dari sumber api. Netralkan dengan Natrium Bikarbonat, lalu serap dengan pasir.", "pertolongan_pertama": "Lepaskan pakaian terkontaminasi. Bilas kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Asam Klorida", "rumus_kimia": "HCl", "wujud": "Cair", "sifat": "Korosif", "warna": "Bening hingga Kekuningan", "bau": "Sangat Menyengat", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Gunakan APD lengkap. Taburkan abu soda (Na2CO3) hingga buih hilang, lalu bersihkan.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Jangan paksa muntah jika tertelan."
-    },
-    {
-        "nama_senyawa": "Asam Nitrat", "rumus_kimia": "HNO3", "wujud": "Cair", "sifat": "Korosif, Oksidator", "warna": "Bening hingga Kuning", "bau": "Tajam Menyengat", "lgk": "5.1B", "keterangan_lgk": "Bahan berbahaya pengoksidasi", "pengendalian_tumpahan": "Jangan gunakan serbuk gergaji. Gunakan pasir, netralkan dengan basa lemah.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Pindahkan ke ruang berudara segar."
-    },
-    {
-        "nama_senyawa": "Asam Oksalat", "rumus_kimia": "H2C2O4", "wujud": "Padat (Kristal)", "sifat": "Toksik, Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "11", "keterangan_lgk": "Padatan mudah terbakar", "pengendalian_tumpahan": "Sapu dan kumpulkan ke dalam wadah tertutup. Hindari pembentukan debu.", "pertolongan_pertama": "Bilas kulit dengan sabun dan air mengalir selama 15 menit. Minum banyak air jika tertelan."
-    },
-    {
-        "nama_senyawa": "Asam Sulfat", "rumus_kimia": "H2SO4", "wujud": "Cair", "sifat": "Sangat Korosif", "warna": "Bening", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Netralkan dengan hati-hati menggunakan Kalsium Hidroksida. Jangan tuang air langsung ke asam pekat.", "pertolongan_pertama": "Bilas kulit atau mata dengan air mengalir selama minimal 15 menit. Segera cari medis."
-    },
-    {
-        "nama_senyawa": "Aseton", "rumus_kimia": "CH3COCH3", "wujud": "Cair", "sifat": "Sangat Mudah Terbakar", "warna": "Bening", "bau": "Manis/Tajam Khas", "lgk": "3", "keterangan_lgk": "Cairan mudah terbakar", "pengendalian_tumpahan": "Singkirkan semua sumber panas. Serap dengan pasir atau tanah liat murni.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Bawa ke ruang terbuka."
-    },
-    {
-        "nama_senyawa": "Barium Klorida", "rumus_kimia": "BaCl2", "wujud": "Padat", "sifat": "Sangat Toksik", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Vakum atau sapu basah. Jangan sampai tertelan atau terhirup.", "pertolongan_pertama": "Bilas mata 15 menit. Jika tertelan, segera hubungi IGD."
-    },
-    {
-        "nama_senyawa": "Barium Sulfat", "rumus_kimia": "BaSO4", "wujud": "Padat", "sifat": "Aman", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan seperti biasa. Bahan ini sangat inert dan tidak beracun.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika berdebu."
-    },
-    {
-        "nama_senyawa": "Besi(II) Klorida", "rumus_kimia": "FeCl2", "wujud": "Padat", "sifat": "Korosif, Berbahaya", "warna": "Hijau Pucat", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Kumpulkan residu dan buang pada wadah khusus. Mudah teroksidasi di udara terbuka.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Besi(III) Klorida", "rumus_kimia": "FeCl3", "wujud": "Padat", "sifat": "Sangat Korosif", "warna": "Cokelat/Kuning", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Sapu hati-hati. Bereaksi secara asam jika terkena air. Gunakan sarung tangan karet.", "pertolongan_pertama": "Bilas mata dengan air mengalir minimal 15 menit. Cuci bersih area kulit yang terpapar."
-    },
-    {
-        "nama_senyawa": "Besi(II) Sulfat", "rumus_kimia": "FeSO4", "wujud": "Padat (Kristal)", "sifat": "Berbahaya (Toksik Akut)", "warna": "Hijau/Biru Pucat", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan tumpahan tanpa membuat debu. Bersihkan sisa dengan air.", "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir selama 15 menit. Cari bantuan medis jika tertelan."
-    },
-    {
-        "nama_senyawa": "Besi(III) Sulfat", "rumus_kimia": "Fe2(SO4)3", "wujud": "Padat", "sifat": "Iritasi Parah", "warna": "Kuning/Abu-abu", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Hindari penghirupan debu. Kumpulkan secara fisik ke wadah tertutup.", "pertolongan_pertama": "Bilas mata secara intensif dengan air mengalir selama 15 menit penuh."
-    },
-    {
-        "nama_senyawa": "Etanol (Alkohol)", "rumus_kimia": "C2H5OH", "wujud": "Cair", "sifat": "Mudah Terbakar", "warna": "Bening", "bau": "Khas Alkohol", "lgk": "3", "keterangan_lgk": "Cairan mudah terbakar", "pengendalian_tumpahan": "Jauhkan dari percikan api. Serap dengan kertas hisap atau pasir.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit dengan sabun."
-    },
-    {
-        "nama_senyawa": "Etil Asetat", "rumus_kimia": "CH3COOC2H5", "wujud": "Cair", "sifat": "Mudah Terbakar, Iritasi", "warna": "Bening", "bau": "Manis/Buah", "lgk": "3", "keterangan_lgk": "Cairan mudah terbakar", "pengendalian_tumpahan": "Gunakan alat anti-percikan api. Serap dengan absorben inert.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Jika terhirup, cari udara segar."
-    },
-    {
-        "nama_senyawa": "Hidrogen Peroksida", "rumus_kimia": "H2O2", "wujud": "Cair", "sifat": "Oksidator, Korosif", "warna": "Bening", "bau": "Sedikit Tajam", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Siram dengan air dalam jumlah banyak. Jangan serap dengan kain atau kertas karena bisa memicu api.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Noda putih di kulit akan hilang perlahan."
-    },
-    {
-        "nama_senyawa": "Iodin", "rumus_kimia": "I2", "wujud": "Padat (Kristal)", "sifat": "Berbahaya, Korosif, Bahaya Lingkungan", "warna": "Ungu Gelap/Abu-abu", "bau": "Tajam Khas", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Vakum atau sapu residu. Netralkan area menggunakan larutan Natrium Tiosulfat (Na2S2O3).", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Hati-hati uapnya dapat merusak paru-paru."
-    },
-    {
-        "nama_senyawa": "Kalium Dikromat", "rumus_kimia": "K2Cr2O7", "wujud": "Padat (Kristal)", "sifat": "Oksidator, Toksik, Karsinogenik", "warna": "Jingga/Oranye", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Basahi perlahan, lalu sapu ke wadah kedap udara. Jauhkan dari bahan organik.", "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir minimal 15 menit. Bawa ke rumah sakit segera."
-    },
-    {
-        "nama_senyawa": "Kalium Iodida", "rumus_kimia": "KI", "wujud": "Padat", "sifat": "Aman (Iritasi Ringan)", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu debu kering. Larutkan residu sisa dengan air.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit dengan sabun."
-    },
-    {
-        "nama_senyawa": "Kalium Kromat", "rumus_kimia": "K2CrO4", "wujud": "Padat", "sifat": "Toksik, Karsinogenik", "warna": "Kuning", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Sapu dan kumpulkan serbuk kering. Cegah masuk ke saluran pembuangan air.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Kalium Nitrat", "rumus_kimia": "KNO3", "wujud": "Padat", "sifat": "Oksidator", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Sapu perlahan, jauhkan dari bahan organik dan serbuk gergaji karena memicu api.", "pertolongan_pertama": "Bilas dengan air mengalir selama 15 menit jika terkena kulit atau mata."
-    },
-    {
-        "nama_senyawa": "Kalium Oksalat", "rumus_kimia": "K2C2O4", "wujud": "Padat", "sifat": "Toksik, Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Vakum atau sapu ke dalam wadah limbah tertutup. Hindari menghirup debu.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit menggunakan sabun."
-    },
-    {
-        "nama_senyawa": "Kalium Permanganat", "rumus_kimia": "KMnO4", "wujud": "Padat", "sifat": "Oksidator Kuat", "warna": "Ungu Gelap/Hitam", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Sapu bahan tumpah. JANGAN buang ke tempat sampah yang berisi kertas karena dapat memicu api.", "pertolongan_pertama": "Bilas kulit dengan air mengalir selama 15 menit (noda ungu perlahan akan hilang)."
-    },
-    {
-        "nama_senyawa": "Kalium Tiosianat", "rumus_kimia": "KSCN", "wujud": "Padat", "sifat": "Toksik Ringan, Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan material secara mekanis dan masukkan ke wadah limbah kimia yang tepat.", "pertolongan_pertama": "Bilas mata atau kulit yang terpapar dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Kalsium Hidroksida", "rumus_kimia": "Ca(OH)2", "wujud": "Padat", "sifat": "Korosif, Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Sapu dengan hati-hati untuk meminimalkan debu. Netralkan residu dengan asam encer ringan.", "pertolongan_pertama": "Segera bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Kalsium Karbonat", "rumus_kimia": "CaCO3", "wujud": "Padat", "sifat": "Aman", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu atau bersihkan debu dengan kain basah.", "pertolongan_pertama": "Bilas dengan air bersih selama 15 menit jika partikel debu masuk ke mata."
-    },
-    {
-        "nama_senyawa": "Kalsium Klorida", "rumus_kimia": "CaCl2", "wujud": "Padat", "sifat": "Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan dan bersihkan residu dengan air. Bahan bersifat higroskopis (menyerap air).", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit yang terkena."
-    },
-    {
-        "nama_senyawa": "Kloroform", "rumus_kimia": "CHCl3", "wujud": "Cair", "sifat": "Toksik, Iritasi", "warna": "Bening", "bau": "Manis Khas", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Gunakan respirator kimia. Serap dengan tanah/pasir. Jangan buang ke saluran pembuangan.", "pertolongan_pertama": "Bilas mata dan kulit dengan air selama 15 menit. Pindahkan ke ruang berudara segar."
-    },
-    {
-        "nama_senyawa": "Kromium(III) Klorida", "rumus_kimia": "CrCl3", "wujud": "Padat", "sifat": "Berbahaya, Iritasi", "warna": "Hijau/Ungu", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu serbuk kering ke wadah tertutup. Cegah debu berterbangan.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Kromium(VI) Oksida", "rumus_kimia": "CrO3", "wujud": "Padat", "sifat": "Sangat Toksik, Karsinogenik, Oksidator", "warna": "Merah Gelap/Ungu", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Sangat berbahaya. Gunakan APD lengkap. Jangan sentuh tanpa pelindung. Kumpulkan kering dan serahkan ke pengolah limbah B3.", "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir selama 15 menit. Segera ke IGD."
-    },
-    {
-        "nama_senyawa": "Litium Hidroksida", "rumus_kimia": "LiOH", "wujud": "Padat", "sifat": "Korosif", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Kumpulkan dengan sekop plastik. Netralkan sisa tumpahan di permukaan lantai.", "pertolongan_pertama": "Segera bilas dengan air mengalir selama 15 menit penuh. Cari bantuan medis."
-    },
-    {
-        "nama_senyawa": "Magnesium Klorida", "rumus_kimia": "MgCl2", "wujud": "Padat", "sifat": "Aman", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu secara fisik. Mudah larut dan aman dicuci dengan air.", "pertolongan_pertama": "Bilas dengan air mengalir selama 15 menit jika mengiritasi mata."
-    },
-    {
-        "nama_senyawa": "Magnesium Oksida", "rumus_kimia": "MgO", "wujud": "Padat (Serbuk)", "sifat": "Aman (Iritasi Ringan)", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu kering atau basah perlahan untuk menahan debu.", "pertolongan_pertama": "Bilas area yang terpapar dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Magnesium Sulfat", "rumus_kimia": "MgSO4", "wujud": "Padat", "sifat": "Aman", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan material dan buang sesuai standar laboratorium umum.", "pertolongan_pertama": "Bilas mata selama 15 menit jika terkena paparan debu langsung."
-    },
-    {
-        "nama_senyawa": "Mangan(II) Sulfat", "rumus_kimia": "MnSO4", "wujud": "Padat", "sifat": "Bahaya Lingkungan, Iritasi", "warna": "Merah Muda Pucat", "bau": "Tidak Berbau", "lgk": "13", "keterangan_lgk": "Padatan tidak mudah terbakar", "pengendalian_tumpahan": "Kumpulkan ke dalam wadah khusus. Jangan biarkan tumpah ke saluran air.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Mangan(IV) Oksida", "rumus_kimia": "MnO2", "wujud": "Padat (Serbuk)", "sifat": "Berbahaya, Iritasi", "warna": "Hitam/Cokelat Gelap", "bau": "Tidak Berbau", "lgk": "13", "keterangan_lgk": "Padatan tidak mudah terbakar", "pengendalian_tumpahan": "Hindari penghirupan debu. Kumpulkan dengan metode sapu basah.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama minimal 15 menit. Cuci kulit dengan sabun."
-    },
-    {
-        "nama_senyawa": "Metanol", "rumus_kimia": "CH3OH", "wujud": "Cair", "sifat": "Mudah Terbakar, Sangat Toksik", "warna": "Bening", "bau": "Khas Alkohol", "lgk": "3", "keterangan_lgk": "Cairan mudah terbakar", "pengendalian_tumpahan": "Evakuasi area. Jauhkan dari api. Serap menggunakan absorben inert.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Bawa korban ke area berudara segar."
-    },
-    {
-        "nama_senyawa": "Metil Jingga", "rumus_kimia": "C14H14N3NaO3S", "wujud": "Padat (Serbuk/Indikator)", "sifat": "Toksik (Jika tertelan)", "warna": "Jingga", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Gunakan sarung tangan. Sapu serbuk dengan hati-hati untuk mencegah debu.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Hindari kontak."
-    },
-    {
-        "nama_senyawa": "Metil Merah", "rumus_kimia": "C15H15N3O2", "wujud": "Padat (Serbuk/Indikator)", "sifat": "Berbahaya, Iritasi", "warna": "Merah Tua", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan residu dan buang pada wadah khusus pewarna/indikator.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Natrium Asetat", "rumus_kimia": "CH3COONa", "wujud": "Padat", "sifat": "Aman", "warna": "Putih", "bau": "Khas Cuka Lemah", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan tumpahan padat, larutkan sisanya dengan air saat mengepel.", "pertolongan_pertama": "Bilas dengan air selama 15 menit jika terjadi iritasi pada mata."
-    },
-    {
-        "nama_senyawa": "Natrium Bikarbonat", "rumus_kimia": "NaHCO3", "wujud": "Padat", "sifat": "Aman (Basa Lemah)", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu serbuk seperti biasa. Aman dicuci langsung dengan air.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika kemasukan debu."
-    },
-    {
-        "nama_senyawa": "Natrium Fluorida", "rumus_kimia": "NaF", "wujud": "Padat", "sifat": "Sangat Toksik", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Pakai APD lengkap. Kumpulkan serbuk kering. DILARANG mencuci dengan asam keras.", "pertolongan_pertama": "Bilas mata dan kulit selama 15 menit. Oleskan gel kalsium glukonat pada kulit. Bawa ke IGD."
-    },
-    {
-        "nama_senyawa": "Natrium Hidroksida", "rumus_kimia": "NaOH", "wujud": "Padat (Pellet/Kristal)", "sifat": "Sangat Korosif", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Kumpulkan kering. Jika cair, netralkan perlahan dengan asam asetat encer atau taburi pasir.", "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir selama 15 menit hingga rasa licin hilang."
-    },
-    {
-        "nama_senyawa": "Natrium Iodida", "rumus_kimia": "NaI", "wujud": "Padat", "sifat": "Berbahaya", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu dan buang di wadah yang sesuai. Peka terhadap cahaya dan kelembaban.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Natrium Karbonat", "rumus_kimia": "Na2CO3", "wujud": "Padat", "sifat": "Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu debu kering, larutkan sisa dengan air secara perlahan.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika terkena paparan debu."
-    },
-    {
-        "nama_senyawa": "Natrium Klorida", "rumus_kimia": "NaCl", "wujud": "Padat", "sifat": "Aman", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu dan kumpulkan seperti biasa, larutkan dengan air untuk pembersihan akhir.", "pertolongan_pertama": "Aman, bilas mata dengan air bersih selama 15 menit jika debu berlebih masuk."
-    },
-    {
-        "nama_senyawa": "Natrium Nitrat", "rumus_kimia": "NaNO3", "wujud": "Padat", "sifat": "Oksidator, Iritasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Hindari pencampuran dengan bahan organik yang mudah menyala. Sapu kering.", "pertolongan_pertama": "Bilas area mata atau kulit yang terkena dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Natrium Oksalat", "rumus_kimia": "Na2C2O4", "wujud": "Padat", "sifat": "Toksik", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Sapu tanpa memicu debu berterbangan. Masukkan ke wadah limbah terpisah.", "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir minimal selama 15 menit. Cari medis jika tertelan."
-    },
-    {
-        "nama_senyawa": "Natrium Sulfat", "rumus_kimia": "Na2SO4", "wujud": "Padat", "sifat": "Aman", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Sapu kering. Tidak memiliki perlakuan bahaya spesifik.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika terkena debu."
-    },
-    {
-        "nama_senyawa": "Natrium Tiosulfat", "rumus_kimia": "Na2S2O3", "wujud": "Padat", "sifat": "Aman / Iritasi Ringan", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "10-13", "keterangan_lgk": "Padatan lainnya", "pengendalian_tumpahan": "Kumpulkan dan masukkan ke wadah tertutup. Cuci area tumpahan dengan air.", "pertolongan_pertama": "Bilas area kulit atau mata yang terpapar dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "n-Heksana", "rumus_kimia": "C6H14", "wujud": "Cair", "sifat": "Sangat Mudah Terbakar, Toksik", "warna": "Bening", "bau": "Khas Bensin", "lgk": "3", "keterangan_lgk": "Cairan mudah terbakar", "pengendalian_tumpahan": "Evakuasi area dari percikan api. Serap menggunakan pasir atau tanah liat (non-combustible).", "pertolongan_pertama": "Pindah ke udara bersih. Bilas mata dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Nikel(II) Klorida", "rumus_kimia": "NiCl2", "wujud": "Padat", "sifat": "Toksik, Karsinogenik", "warna": "Kuning/Hijau", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Hindari debu beterbangan. Sapu kering dan simpan dalam wadah limbah logam berat tertutup.", "pertolongan_pertama": "Bilas area kulit dan mata dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Nikel(II) Sulfat", "rumus_kimia": "NiSO4", "wujud": "Padat", "sifat": "Toksik, Karsinogenik", "warna": "Biru/Hijau", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Sapu serbuk secara mekanis ke dalam tong plastik khusus limbah beracun.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Ganti pakaian yang terpapar."
-    },
-    {
-        "nama_senyawa": "Perak Nitrat", "rumus_kimia": "AgNO3", "wujud": "Padat", "sifat": "Korosif, Oksidator", "warna": "Transparan/Putih", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Lindungi dari cahaya terang. Sapu bahan kering. Hati-hati bahan ini menodai gelap semua yang disentuhnya.", "pertolongan_pertama": "Bilas dengan air mengalir selama 15 menit. Noda hitam di kulit tidak mematikan dan akan hilang seiring waktu."
-    },
-    {
-        "nama_senyawa": "Raksa(I) Klorida", "rumus_kimia": "Hg2Cl2", "wujud": "Padat", "sifat": "Sangat Toksik", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Gunakan masker dan sarung tangan tebal. Sapu hati-hati dan buang sebagai limbah merkuri khusus.", "pertolongan_pertama": "Bilas kulit dengan air mengalir 15 menit. Jika tertelan, segera lari ke rumah sakit."
-    },
-    {
-        "nama_senyawa": "Raksa(II) Klorida", "rumus_kimia": "HgCl2", "wujud": "Padat", "sifat": "Sangat Toksik, Fatal jika tertelan", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "6.1B", "keterangan_lgk": "Bahan beracun sangat mematikan", "pengendalian_tumpahan": "Evakuasi area, gunakan perlengkapan merkuri kit. Jangan sapu langsung, gunakan vakum khusus.", "pertolongan_pertama": "Bilas mata dan kulit dengan air 15 menit penuh. Hubungi medis darurat."
-    },
-    {
-        "nama_senyawa": "Seng(II) Klorida", "rumus_kimia": "ZnCl2", "wujud": "Padat", "sifat": "Korosif, Bahaya Lingkungan", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Kumpulkan residu dan cegah masuk ke perairan sekitar.", "pertolongan_pertama": "Bilas area mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Seng(II) Oksida", "rumus_kimia": "ZnO", "wujud": "Padat", "sifat": "Bahaya Lingkungan Akut", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "13", "keterangan_lgk": "Padatan tidak mudah terbakar", "pengendalian_tumpahan": "Sapu residu serbuk dan buang di limbah padat logam. Jauhkan dari saluran air.", "pertolongan_pertama": "Bilas area mata dan kulit yang terkena paparan debu dengan air selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Seng(II) Sulfat", "rumus_kimia": "ZnSO4", "wujud": "Padat", "sifat": "Iritasi Mata Parah", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "13", "keterangan_lgk": "Padatan tidak mudah terbakar", "pengendalian_tumpahan": "Sapu ke dalam wadah. Tidak ada risiko kebakaran spesifik.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama minimal 15 menit."
-    },
-    {
-        "nama_senyawa": "Tembaga(I) Klorida", "rumus_kimia": "CuCl", "wujud": "Padat", "sifat": "Berbahaya", "warna": "Putih/Kehijauan", "bau": "Tidak Berbau", "lgk": "13", "keterangan_lgk": "Padatan tidak mudah terbakar", "pengendalian_tumpahan": "Mudah teroksidasi di udara terbuka. Kumpulkan dan tutup rapat.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Tembaga(II) Klorida", "rumus_kimia": "CuCl2", "wujud": "Padat", "sifat": "Toksik, Iritasi", "warna": "Hijau/Biru", "bau": "Tidak Berbau", "lgk": "13", "keterangan_lgk": "Padatan tidak mudah terbakar", "pengendalian_tumpahan": "Hindari aliran limbah ke perairan sekitar. Sapu ke dalam wadah khusus.", "pertolongan_pertama": "Bilas kulit dengan sabun dan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Tembaga(II) Nitrat", "rumus_kimia": "Cu(NO3)2", "wujud": "Padat", "sifat": "Oksidator, Toksik, Iritasi", "warna": "Biru", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Pisahkan dari bahan mudah terbakar. Bersihkan dengan menyapu kering perlahan.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Tembaga(II) Sulfat", "rumus_kimia": "CuSO4", "wujud": "Padat (Kristal)", "sifat": "Toksik Lingkungan, Iritasi", "warna": "Biru Terang", "bau": "Tidak Berbau", "lgk": "13", "keterangan_lgk": "Padatan tidak mudah terbakar", "pengendalian_tumpahan": "Sapu kering. JANGAN buang ke selokan karena sangat beracun bagi organisme akuatik.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Cuci tangan pakai sabun."
-    },
-    {
-        "nama_senyawa": "Timah(II) Klorida", "rumus_kimia": "SnCl2", "wujud": "Padat", "sifat": "Korosif, Sensitisasi", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Vakum atau sapu. Netralkan jika tercecer di permukaan meja.", "pertolongan_pertama": "Bilas mata dengan air mengalir minimal 15 menit. Lepas pakaian yang terpapar."
-    },
-    {
-        "nama_senyawa": "Timah(IV) Klorida", "rumus_kimia": "SnCl4", "wujud": "Cair", "sifat": "Sangat Korosif", "warna": "Bening/Kekuningan", "bau": "Sangat Tajam/Menusuk", "lgk": "8B", "keterangan_lgk": "Bahan korosif tidak mudah terbakar", "pengendalian_tumpahan": "Cairan mengeluarkan asap klorida di udara. Gunakan respirator. Netralkan dengan basa lemah.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Segera cari pertolongan medis."
-    },
-    {
-        "nama_senyawa": "Timbal(II) Asetat", "rumus_kimia": "Pb(CH3COO)2", "wujud": "Padat", "sifat": "Toksik, Reprotoksik", "warna": "Putih", "bau": "Sedikit Khas Cuka", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Kenakan masker. Sapu perlahan ke wadah limbah logam berat, minimalkan debu.", "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Segera ke dokter jika tertelan."
-    },
-    {
-        "nama_senyawa": "Timbal(II) Klorida", "rumus_kimia": "PbCl2", "wujud": "Padat", "sifat": "Toksik, Reprotoksik", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "6.1D", "keterangan_lgk": "Bahan beracun tidak mudah terbakar", "pengendalian_tumpahan": "Kumpulkan residu dan buang sebagai limbah logam berat.", "pertolongan_pertama": "Bilas area yang terkena paparan debu dengan air mengalir selama 15 menit."
-    },
-    {
-        "nama_senyawa": "Timbal(II) Nitrat", "rumus_kimia": "Pb(NO3)2", "wujud": "Padat", "sifat": "Toksik, Oksidator", "warna": "Putih", "bau": "Tidak Berbau", "lgk": "5.1B", "keterangan_lgk": "Bahan pengoksidasi", "pengendalian_tumpahan": "Jauhkan dari bahan organik mudah nyala. Kumpulkan di wadah tertutup.", "pertolongan_pertama": "Bilas mata dengan air mengalir selama minimal 15 menit. Cari pertolongan medis segera."
-    },
-    {
-        "nama_senyawa": "Toluena", "rumus_kimia": "C7H8", "wujud": "Cair", "sifat": "Sangat Mudah Terbakar, Toksik", "warna": "Bening", "bau": "Khas Aromatik", "lgk": "3", "keterangan_lgk": "Cairan mudah terbakar", "pengendalian_tumpahan": "Matikan semua sumber api/panas. Serap cairan dengan absorben inert (pasir).", "pertolongan_pertama": "Bilas mata selama 15 menit. Jika terhirup, segera berpindah ke ruang dengan ventilasi terbuka."
+        "nama_senyawa": "Aluminium Klorida",
+        "rumus_kimia": "AlCl3",
+        "wujud": "Padat",
+        "sifat": "Korosif",
+        "warna": "Putih/Kuning",
+        "bau": "Tajam (HCl)",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu kering, jangan gunakan air secara langsung karena bereaksi eksotermis.",
+        "pertolongan_pertama": "Bilas area mata atau kulit dengan air mengalir selama minimal 15 menit."
+    },
+    {
+        "nama_senyawa": "Aluminium Sulfat",
+        "rumus_kimia": "Al2(SO4)3",
+        "wujud": "Padat",
+        "sifat": "Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan residu dan buang pada wadah khusus laboratorium.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Amilum (Pati)",
+        "rumus_kimia": "(C6H10O5)n",
+        "wujud": "Padat (Serbuk)",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu basah perlahan untuk menghindari debu berterbangan di udara.",
+        "pertolongan_pertama": "Bilas mata dengan air bersih selama 15 menit jika terkena debu."
+    },
+    {
+        "nama_senyawa": "Amonia",
+        "rumus_kimia": "NH3",
+        "wujud": "Cair (Larutan)",
+        "sifat": "Korosif, Toksik",
+        "warna": "Bening",
+        "bau": "Pesing Menyengat",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Gunakan masker respirator. Netralkan perlahan dengan asam encer dan serap dengan absorben.",
+        "pertolongan_pertama": "Bilas mata atau kulit yang terkena dengan air mengalir selama minimal 15 menit."
+    },
+    {
+        "nama_senyawa": "Amonium Klorida",
+        "rumus_kimia": "NH4Cl",
+        "wujud": "Padat",
+        "sifat": "Iritasi (Iritasi Mata Parah)",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu dan hindari pembentukan debu. Larutkan sisa tumpahan dengan air.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit dengan sabun."
+    },
+    {
+        "nama_senyawa": "Amonium Sulfat",
+        "rumus_kimia": "(NH4)2SO4",
+        "wujud": "Padat",
+        "sifat": "Aman / Iritasi Ringan",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu bersih secara mekanis. Aman dibersihkan dengan air.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika ada debu yang masuk."
+    },
+    {
+        "nama_senyawa": "Asam Asetat Glacial",
+        "rumus_kimia": "CH3COOH",
+        "wujud": "Cair",
+        "sifat": "Korosif, Mudah Terbakar",
+        "warna": "Bening",
+        "bau": "Cuka Menyengat",
+        "lgk": "8A",
+        "keterangan_lgk": "Bahan korosif mudah terbakar",
+        "pengendalian_tumpahan": "Jauhkan dari sumber api. Netralkan dengan Natrium Bikarbonat, lalu serap dengan pasir.",
+        "pertolongan_pertama": "Lepaskan pakaian terkontaminasi. Bilas kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Asam Klorida",
+        "rumus_kimia": "HCl",
+        "wujud": "Cair",
+        "sifat": "Korosif",
+        "warna": "Bening hingga Kekuningan",
+        "bau": "Sangat Menyengat",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Gunakan APD lengkap. Taburkan abu soda (Na2CO3) hingga buih hilang, lalu bersihkan.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Jangan paksa muntah jika tertelan."
+    },
+    {
+        "nama_senyawa": "Asam Nitrat",
+        "rumus_kimia": "HNO3",
+        "wujud": "Cair",
+        "sifat": "Korosif, Oksidator",
+        "warna": "Bening hingga Kuning",
+        "bau": "Tajam Menyengat",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan berbahaya pengoksidasi",
+        "pengendalian_tumpahan": "Jangan gunakan serbuk gergaji. Gunakan pasir, netralkan dengan basa lemah.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Pindahkan ke ruang berudara segar."
+    },
+    {
+        "nama_senyawa": "Asam Oksalat",
+        "rumus_kimia": "H2C2O4",
+        "wujud": "Padat (Kristal)",
+        "sifat": "Toksik, Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "11",
+        "keterangan_lgk": "Padatan mudah terbakar",
+        "pengendalian_tumpahan": "Sapu dan kumpulkan ke dalam wadah tertutup. Hindari pembentukan debu.",
+        "pertolongan_pertama": "Bilas kulit dengan sabun dan air mengalir selama 15 menit. Minum banyak air jika tertelan."
+    },
+    {
+        "nama_senyawa": "Asam Sulfat",
+        "rumus_kimia": "H2SO4",
+        "wujud": "Cair",
+        "sifat": "Sangat Korosif",
+        "warna": "Bening",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Netralkan dengan hati-hati menggunakan Kalsium Hidroksida. Jangan tuang air langsung ke asam pekat.",
+        "pertolongan_pertama": "Bilas kulit atau mata dengan air mengalir selama minimal 15 menit. Segera cari medis."
+    },
+    {
+        "nama_senyawa": "Aseton",
+        "rumus_kimia": "CH3COCH3",
+        "wujud": "Cair",
+        "sifat": "Sangat Mudah Terbakar",
+        "warna": "Bening",
+        "bau": "Manis/Tajam Khas",
+        "lgk": "3",
+        "keterangan_lgk": "Cairan mudah terbakar",
+        "pengendalian_tumpahan": "Singkirkan semua sumber panas. Serap dengan pasir atau tanah liat murni.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Bawa ke ruang terbuka."
+    },
+    {
+        "nama_senyawa": "Barium Klorida",
+        "rumus_kimia": "BaCl2",
+        "wujud": "Padat",
+        "sifat": "Sangat Toksik",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Vakum atau sapu basah. Jangan sampai tertelan atau terhirup.",
+        "pertolongan_pertama": "Bilas mata 15 menit. Jika tertelan, segera hubungi IGD."
+    },
+    {
+        "nama_senyawa": "Barium Sulfat",
+        "rumus_kimia": "BaSO4",
+        "wujud": "Padat",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan seperti biasa. Bahan ini sangat inert dan tidak beracun.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika berdebu."
+    },
+    {
+        "nama_senyawa": "Besi(II) Klorida",
+        "rumus_kimia": "FeCl2",
+        "wujud": "Padat",
+        "sifat": "Korosif, Berbahaya",
+        "warna": "Hijau Pucat",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Kumpulkan residu dan buang pada wadah khusus. Mudah teroksidasi di udara terbuka.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Besi(III) Klorida",
+        "rumus_kimia": "FeCl3",
+        "wujud": "Padat",
+        "sifat": "Sangat Korosif",
+        "warna": "Cokelat/Kuning",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu hati-hati. Bereaksi secara asam jika terkena air. Gunakan sarung tangan karet.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir minimal 15 menit. Cuci bersih area kulit yang terpapar."
+    },
+    {
+        "nama_senyawa": "Besi(II) Sulfat",
+        "rumus_kimia": "FeSO4",
+        "wujud": "Padat (Kristal)",
+        "sifat": "Berbahaya (Toksik Akut)",
+        "warna": "Hijau/Biru Pucat",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan tumpahan tanpa membuat debu. Bersihkan sisa dengan air.",
+        "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir selama 15 menit. Cari bantuan medis jika tertelan."
+    },
+    {
+        "nama_senyawa": "Besi(III) Sulfat",
+        "rumus_kimia": "Fe2(SO4)3",
+        "wujud": "Padat",
+        "sifat": "Iritasi Parah",
+        "warna": "Kuning/Abu-abu",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Hindari penghirupan debu. Kumpulkan secara fisik ke wadah tertutup.",
+        "pertolongan_pertama": "Bilas mata secara intensif dengan air mengalir selama 15 menit penuh."
+    },
+    {
+        "nama_senyawa": "Etanol (Alkohol)",
+        "rumus_kimia": "C2H5OH",
+        "wujud": "Cair",
+        "sifat": "Mudah Terbakar",
+        "warna": "Bening",
+        "bau": "Khas Alkohol",
+        "lgk": "3",
+        "keterangan_lgk": "Cairan mudah terbakar",
+        "pengendalian_tumpahan": "Jauhkan dari percikan api. Serap dengan kertas hisap atau pasir.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit dengan sabun."
+    },
+    {
+        "nama_senyawa": "Etil Asetat",
+        "rumus_kimia": "CH3COOC2H5",
+        "wujud": "Cair",
+        "sifat": "Mudah Terbakar, Iritasi",
+        "warna": "Bening",
+        "bau": "Manis/Buah",
+        "lgk": "3",
+        "keterangan_lgk": "Cairan mudah terbakar",
+        "pengendalian_tumpahan": "Gunakan alat anti-percikan api. Serap dengan absorben inert.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Jika terhirup, cari udara segar."
+    },
+    {
+        "nama_senyawa": "Hidrogen Peroksida",
+        "rumus_kimia": "H2O2",
+        "wujud": "Cair",
+        "sifat": "Oksidator, Korosif",
+        "warna": "Bening",
+        "bau": "Sedikit Tajam",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Siram dengan air dalam jumlah banyak. Jangan serap dengan kain atau kertas karena bisa memicu api.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Noda putih di kulit akan hilang perlahan."
+    },
+    {
+        "nama_senyawa": "Iodin",
+        "rumus_kimia": "I2",
+        "wujud": "Padat (Kristal)",
+        "sifat": "Berbahaya, Korosif, Bahaya Lingkungan",
+        "warna": "Ungu Gelap/Abu-abu",
+        "bau": "Tajam Khas",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Vakum atau sapu residu. Netralkan area menggunakan larutan Natrium Tiosulfat (Na2S2O3).",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Hati-hati uapnya dapat merusak paru-paru."
+    },
+    {
+        "nama_senyawa": "Kalium Dikromat",
+        "rumus_kimia": "K2Cr2O7",
+        "wujud": "Padat (Kristal)",
+        "sifat": "Oksidator, Toksik, Karsinogenik",
+        "warna": "Jingga/Oranye",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Basahi perlahan, lalu sapu ke wadah kedap udara. Jauhkan dari bahan organik.",
+        "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir minimal 15 menit. Bawa ke rumah sakit segera."
+    },
+    {
+        "nama_senyawa": "Kalium Iodida",
+        "rumus_kimia": "KI",
+        "wujud": "Padat",
+        "sifat": "Aman (Iritasi Ringan)",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu debu kering. Larutkan residu sisa dengan air.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit dengan sabun."
+    },
+    {
+        "nama_senyawa": "Kalium Kromat",
+        "rumus_kimia": "K2CrO4",
+        "wujud": "Padat",
+        "sifat": "Toksik, Karsinogenik",
+        "warna": "Kuning",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu dan kumpulkan serbuk kering. Cegah masuk ke saluran pembuangan air.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Kalium Nitrat",
+        "rumus_kimia": "KNO3",
+        "wujud": "Padat",
+        "sifat": "Oksidator",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Sapu perlahan, jauhkan dari bahan organik dan serbuk gergaji karena memicu api.",
+        "pertolongan_pertama": "Bilas dengan air mengalir selama 15 menit jika terkena kulit atau mata."
+    },
+    {
+        "nama_senyawa": "Kalium Oksalat",
+        "rumus_kimia": "K2C2O4",
+        "wujud": "Padat",
+        "sifat": "Toksik, Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Vakum atau sapu ke dalam wadah limbah tertutup. Hindari menghirup debu.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit menggunakan sabun."
+    },
+    {
+        "nama_senyawa": "Kalium Permanganat",
+        "rumus_kimia": "KMnO4",
+        "wujud": "Padat",
+        "sifat": "Oksidator Kuat",
+        "warna": "Ungu Gelap/Hitam",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Sapu bahan tumpah. JANGAN buang ke tempat sampah yang berisi kertas karena dapat memicu api.",
+        "pertolongan_pertama": "Bilas kulit dengan air mengalir selama 15 menit (noda ungu perlahan akan hilang)."
+    },
+    {
+        "nama_senyawa": "Kalium Tiosianat",
+        "rumus_kimia": "KSCN",
+        "wujud": "Padat",
+        "sifat": "Toksik Ringan, Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan material secara mekanis dan masukkan ke wadah limbah kimia yang tepat.",
+        "pertolongan_pertama": "Bilas mata atau kulit yang terpapar dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Kalsium Hidroksida",
+        "rumus_kimia": "Ca(OH)2",
+        "wujud": "Padat",
+        "sifat": "Korosif, Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu dengan hati-hati untuk meminimalkan debu. Netralkan residu dengan asam encer ringan.",
+        "pertolongan_pertama": "Segera bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Kalsium Karbonat",
+        "rumus_kimia": "CaCO3",
+        "wujud": "Padat",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu atau bersihkan debu dengan kain basah.",
+        "pertolongan_pertama": "Bilas dengan air bersih selama 15 menit jika partikel debu masuk ke mata."
+    },
+    {
+        "nama_senyawa": "Kalsium Klorida",
+        "rumus_kimia": "CaCl2",
+        "wujud": "Padat",
+        "sifat": "Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan dan bersihkan residu dengan air. Bahan bersifat higroskopis (menyerap air).",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Cuci kulit yang terkena."
+    },
+    {
+        "nama_senyawa": "Kloroform",
+        "rumus_kimia": "CHCl3",
+        "wujud": "Cair",
+        "sifat": "Toksik, Iritasi",
+        "warna": "Bening",
+        "bau": "Manis Khas",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Gunakan respirator kimia. Serap dengan tanah/pasir. Jangan buang ke saluran pembuangan.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air selama 15 menit. Pindahkan ke ruang berudara segar."
+    },
+    {
+        "nama_senyawa": "Kromium(III) Klorida",
+        "rumus_kimia": "CrCl3",
+        "wujud": "Padat",
+        "sifat": "Berbahaya, Iritasi",
+        "warna": "Hijau/Ungu",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu serbuk kering ke wadah tertutup. Cegah debu berterbangan.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Kromium(VI) Oksida",
+        "rumus_kimia": "CrO3",
+        "wujud": "Padat",
+        "sifat": "Sangat Toksik, Karsinogenik, Oksidator",
+        "warna": "Merah Gelap/Ungu",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Sangat berbahaya. Gunakan APD lengkap. Jangan sentuh tanpa pelindung. Kumpulkan kering dan serahkan ke pengolah limbah B3.",
+        "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir selama 15 menit. Segera ke IGD."
+    },
+    {
+        "nama_senyawa": "Litium Hidroksida",
+        "rumus_kimia": "LiOH",
+        "wujud": "Padat",
+        "sifat": "Korosif",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Kumpulkan dengan sekop plastik. Netralkan sisa tumpahan di permukaan lantai.",
+        "pertolongan_pertama": "Segera bilas dengan air mengalir selama 15 menit penuh. Cari bantuan medis."
+    },
+    {
+        "nama_senyawa": "Magnesium Klorida",
+        "rumus_kimia": "MgCl2",
+        "wujud": "Padat",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu secara fisik. Mudah larut dan aman dicuci dengan air.",
+        "pertolongan_pertama": "Bilas dengan air mengalir selama 15 menit jika mengiritasi mata."
+    },
+    {
+        "nama_senyawa": "Magnesium Oksida",
+        "rumus_kimia": "MgO",
+        "wujud": "Padat (Serbuk)",
+        "sifat": "Aman (Iritasi Ringan)",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu kering atau basah perlahan untuk menahan debu.",
+        "pertolongan_pertama": "Bilas area yang terpapar dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Magnesium Sulfat",
+        "rumus_kimia": "MgSO4",
+        "wujud": "Padat",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan material dan buang sesuai standar laboratorium umum.",
+        "pertolongan_pertama": "Bilas mata selama 15 menit jika terkena paparan debu langsung."
+    },
+    {
+        "nama_senyawa": "Mangan(II) Sulfat",
+        "rumus_kimia": "MnSO4",
+        "wujud": "Padat",
+        "sifat": "Bahaya Lingkungan, Iritasi",
+        "warna": "Merah Muda Pucat",
+        "bau": "Tidak Berbau",
+        "lgk": "13",
+        "keterangan_lgk": "Padatan tidak mudah terbakar",
+        "pengendalian_tumpahan": "Kumpulkan ke dalam wadah khusus. Jangan biarkan tumpah ke saluran air.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Mangan(IV) Oksida",
+        "rumus_kimia": "MnO2",
+        "wujud": "Padat (Serbuk)",
+        "sifat": "Berbahaya, Iritasi",
+        "warna": "Hitam/Cokelat Gelap",
+        "bau": "Tidak Berbau",
+        "lgk": "13",
+        "keterangan_lgk": "Padatan tidak mudah terbakar",
+        "pengendalian_tumpahan": "Hindari penghirupan debu. Kumpulkan dengan metode sapu basah.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama minimal 15 menit. Cuci kulit dengan sabun."
+    },
+    {
+        "nama_senyawa": "Metanol",
+        "rumus_kimia": "CH3OH",
+        "wujud": "Cair",
+        "sifat": "Mudah Terbakar, Sangat Toksik",
+        "warna": "Bening",
+        "bau": "Khas Alkohol",
+        "lgk": "3",
+        "keterangan_lgk": "Cairan mudah terbakar",
+        "pengendalian_tumpahan": "Evakuasi area. Jauhkan dari api. Serap menggunakan absorben inert.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit. Bawa korban ke area berudara segar."
+    },
+    {
+        "nama_senyawa": "Metil Jingga",
+        "rumus_kimia": "C14H14N3NaO3S",
+        "wujud": "Padat (Serbuk/Indikator)",
+        "sifat": "Toksik (Jika tertelan)",
+        "warna": "Jingga",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Gunakan sarung tangan. Sapu serbuk dengan hati-hati untuk mencegah debu.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Hindari kontak."
+    },
+    {
+        "nama_senyawa": "Metil Merah",
+        "rumus_kimia": "C15H15N3O2",
+        "wujud": "Padat (Serbuk/Indikator)",
+        "sifat": "Berbahaya, Iritasi",
+        "warna": "Merah Tua",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan residu dan buang pada wadah khusus pewarna/indikator.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Natrium Asetat",
+        "rumus_kimia": "CH3COONa",
+        "wujud": "Padat",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Khas Cuka Lemah",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan tumpahan padat, larutkan sisanya dengan air saat mengepel.",
+        "pertolongan_pertama": "Bilas dengan air selama 15 menit jika terjadi iritasi pada mata."
+    },
+    {
+        "nama_senyawa": "Natrium Bikarbonat",
+        "rumus_kimia": "NaHCO3",
+        "wujud": "Padat",
+        "sifat": "Aman (Basa Lemah)",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu serbuk seperti biasa. Aman dicuci langsung dengan air.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika kemasukan debu."
+    },
+    {
+        "nama_senyawa": "Natrium Fluorida",
+        "rumus_kimia": "NaF",
+        "wujud": "Padat",
+        "sifat": "Sangat Toksik",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Pakai APD lengkap. Kumpulkan serbuk kering. DILARANG mencuci dengan asam keras.",
+        "pertolongan_pertama": "Bilas mata dan kulit selama 15 menit. Oleskan gel kalsium glukonat pada kulit. Bawa ke IGD."
+    },
+    {
+        "nama_senyawa": "Natrium Hidroksida",
+        "rumus_kimia": "NaOH",
+        "wujud": "Padat (Pellet/Kristal)",
+        "sifat": "Sangat Korosif",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Kumpulkan kering. Jika cair, netralkan perlahan dengan asam asetat encer atau taburi pasir.",
+        "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir selama 15 menit hingga rasa licin hilang."
+    },
+    {
+        "nama_senyawa": "Natrium Iodida",
+        "rumus_kimia": "NaI",
+        "wujud": "Padat",
+        "sifat": "Berbahaya",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu dan buang di wadah yang sesuai. Peka terhadap cahaya dan kelembaban.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Natrium Karbonat",
+        "rumus_kimia": "Na2CO3",
+        "wujud": "Padat",
+        "sifat": "Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu debu kering, larutkan sisa dengan air secara perlahan.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika terkena paparan debu."
+    },
+    {
+        "nama_senyawa": "Natrium Klorida",
+        "rumus_kimia": "NaCl",
+        "wujud": "Padat",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu dan kumpulkan seperti biasa, larutkan dengan air untuk pembersihan akhir.",
+        "pertolongan_pertama": "Aman, bilas mata dengan air bersih selama 15 menit jika debu berlebih masuk."
+    },
+    {
+        "nama_senyawa": "Natrium Nitrat",
+        "rumus_kimia": "NaNO3",
+        "wujud": "Padat",
+        "sifat": "Oksidator, Iritasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Hindari pencampuran dengan bahan organik yang mudah menyala. Sapu kering.",
+        "pertolongan_pertama": "Bilas area mata atau kulit yang terkena dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Natrium Oksalat",
+        "rumus_kimia": "Na2C2O4",
+        "wujud": "Padat",
+        "sifat": "Toksik",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu tanpa memicu debu berterbangan. Masukkan ke wadah limbah terpisah.",
+        "pertolongan_pertama": "Bilas kulit dan mata dengan air mengalir minimal selama 15 menit. Cari medis jika tertelan."
+    },
+    {
+        "nama_senyawa": "Natrium Sulfat",
+        "rumus_kimia": "Na2SO4",
+        "wujud": "Padat",
+        "sifat": "Aman",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Sapu kering. Tidak memiliki perlakuan bahaya spesifik.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama 15 menit jika terkena debu."
+    },
+    {
+        "nama_senyawa": "Natrium Tiosulfat",
+        "rumus_kimia": "Na2S2O3",
+        "wujud": "Padat",
+        "sifat": "Aman / Iritasi Ringan",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "10-13",
+        "keterangan_lgk": "Padatan lainnya",
+        "pengendalian_tumpahan": "Kumpulkan dan masukkan ke wadah tertutup. Cuci area tumpahan dengan air.",
+        "pertolongan_pertama": "Bilas area kulit atau mata yang terpapar dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "n-Heksana",
+        "rumus_kimia": "C6H14",
+        "wujud": "Cair",
+        "sifat": "Sangat Mudah Terbakar, Toksik",
+        "warna": "Bening",
+        "bau": "Khas Bensin",
+        "lgk": "3",
+        "keterangan_lgk": "Cairan mudah terbakar",
+        "pengendalian_tumpahan": "Evakuasi area dari percikan api. Serap menggunakan pasir atau tanah liat (non-combustible).",
+        "pertolongan_pertama": "Pindah ke udara bersih. Bilas mata dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Nikel(II) Klorida",
+        "rumus_kimia": "NiCl2",
+        "wujud": "Padat",
+        "sifat": "Toksik, Karsinogenik",
+        "warna": "Kuning/Hijau",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Hindari debu beterbangan. Sapu kering dan simpan dalam wadah limbah logam berat tertutup.",
+        "pertolongan_pertama": "Bilas area kulit dan mata dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Nikel(II) Sulfat",
+        "rumus_kimia": "NiSO4",
+        "wujud": "Padat",
+        "sifat": "Toksik, Karsinogenik",
+        "warna": "Biru/Hijau",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu serbuk secara mekanis ke dalam tong plastik khusus limbah beracun.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Ganti pakaian yang terpapar."
+    },
+    {
+        "nama_senyawa": "Perak Nitrat",
+        "rumus_kimia": "AgNO3",
+        "wujud": "Padat",
+        "sifat": "Korosif, Oksidator",
+        "warna": "Transparan/Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Lindungi dari cahaya terang. Sapu bahan kering. Hati-hati bahan ini menodai gelap semua yang disentuhnya.",
+        "pertolongan_pertama": "Bilas dengan air mengalir selama 15 menit. Noda hitam di kulit tidak mematikan dan akan hilang seiring waktu."
+    },
+    {
+        "nama_senyawa": "Raksa(I) Klorida",
+        "rumus_kimia": "Hg2Cl2",
+        "wujud": "Padat",
+        "sifat": "Sangat Toksik",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Gunakan masker dan sarung tangan tebal. Sapu hati-hati dan buang sebagai limbah merkuri khusus.",
+        "pertolongan_pertama": "Bilas kulit dengan air mengalir 15 menit. Jika tertelan, segera lari ke rumah sakit."
+    },
+    {
+        "nama_senyawa": "Raksa(II) Klorida",
+        "rumus_kimia": "HgCl2",
+        "wujud": "Padat",
+        "sifat": "Sangat Toksik, Fatal jika tertelan",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1B",
+        "keterangan_lgk": "Bahan beracun sangat mematikan",
+        "pengendalian_tumpahan": "Evakuasi area, gunakan perlengkapan merkuri kit. Jangan sapu langsung, gunakan vakum khusus.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air 15 menit penuh. Hubungi medis darurat."
+    },
+    {
+        "nama_senyawa": "Seng(II) Klorida",
+        "rumus_kimia": "ZnCl2",
+        "wujud": "Padat",
+        "sifat": "Korosif, Bahaya Lingkungan",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Kumpulkan residu dan cegah masuk ke perairan sekitar.",
+        "pertolongan_pertama": "Bilas area mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Seng(II) Oksida",
+        "rumus_kimia": "ZnO",
+        "wujud": "Padat",
+        "sifat": "Bahaya Lingkungan Akut",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "13",
+        "keterangan_lgk": "Padatan tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu residu serbuk dan buang di limbah padat logam. Jauhkan dari saluran air.",
+        "pertolongan_pertama": "Bilas area mata dan kulit yang terkena paparan debu dengan air selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Seng(II) Sulfat",
+        "rumus_kimia": "ZnSO4",
+        "wujud": "Padat",
+        "sifat": "Iritasi Mata Parah",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "13",
+        "keterangan_lgk": "Padatan tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu ke dalam wadah. Tidak ada risiko kebakaran spesifik.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama minimal 15 menit."
+    },
+    {
+        "nama_senyawa": "Tembaga(I) Klorida",
+        "rumus_kimia": "CuCl",
+        "wujud": "Padat",
+        "sifat": "Berbahaya",
+        "warna": "Putih/Kehijauan",
+        "bau": "Tidak Berbau",
+        "lgk": "13",
+        "keterangan_lgk": "Padatan tidak mudah terbakar",
+        "pengendalian_tumpahan": "Mudah teroksidasi di udara terbuka. Kumpulkan dan tutup rapat.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Tembaga(II) Klorida",
+        "rumus_kimia": "CuCl2",
+        "wujud": "Padat",
+        "sifat": "Toksik, Iritasi",
+        "warna": "Hijau/Biru",
+        "bau": "Tidak Berbau",
+        "lgk": "13",
+        "keterangan_lgk": "Padatan tidak mudah terbakar",
+        "pengendalian_tumpahan": "Hindari aliran limbah ke perairan sekitar. Sapu ke dalam wadah khusus.",
+        "pertolongan_pertama": "Bilas kulit dengan sabun dan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Tembaga(II) Nitrat",
+        "rumus_kimia": "Cu(NO3)2",
+        "wujud": "Padat",
+        "sifat": "Oksidator, Toksik, Iritasi",
+        "warna": "Biru",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Pisahkan dari bahan mudah terbakar. Bersihkan dengan menyapu kering perlahan.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Tembaga(II) Sulfat",
+        "rumus_kimia": "CuSO4",
+        "wujud": "Padat (Kristal)",
+        "sifat": "Toksik Lingkungan, Iritasi",
+        "warna": "Biru Terang",
+        "bau": "Tidak Berbau",
+        "lgk": "13",
+        "keterangan_lgk": "Padatan tidak mudah terbakar",
+        "pengendalian_tumpahan": "Sapu kering. JANGAN buang ke selokan karena sangat beracun bagi organisme akuatik.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Cuci tangan pakai sabun."
+    },
+    {
+        "nama_senyawa": "Timah(II) Klorida",
+        "rumus_kimia": "SnCl2",
+        "wujud": "Padat",
+        "sifat": "Korosif, Sensitisasi",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Vakum atau sapu. Netralkan jika tercecer di permukaan meja.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir minimal 15 menit. Lepas pakaian yang terpapar."
+    },
+    {
+        "nama_senyawa": "Timah(IV) Klorida",
+        "rumus_kimia": "SnCl4",
+        "wujud": "Cair",
+        "sifat": "Sangat Korosif",
+        "warna": "Bening/Kekuningan",
+        "bau": "Sangat Tajam/Menusuk",
+        "lgk": "8B",
+        "keterangan_lgk": "Bahan korosif tidak mudah terbakar",
+        "pengendalian_tumpahan": "Cairan mengeluarkan asap klorida di udara. Gunakan respirator. Netralkan dengan basa lemah.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Segera cari pertolongan medis."
+    },
+    {
+        "nama_senyawa": "Timbal(II) Asetat",
+        "rumus_kimia": "Pb(CH3COO)2",
+        "wujud": "Padat",
+        "sifat": "Toksik, Reprotoksik",
+        "warna": "Putih",
+        "bau": "Sedikit Khas Cuka",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Kenakan masker. Sapu perlahan ke wadah limbah logam berat, minimalkan debu.",
+        "pertolongan_pertama": "Bilas mata dan kulit dengan air mengalir selama 15 menit. Segera ke dokter jika tertelan."
+    },
+    {
+        "nama_senyawa": "Timbal(II) Klorida",
+        "rumus_kimia": "PbCl2",
+        "wujud": "Padat",
+        "sifat": "Toksik, Reprotoksik",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "6.1D",
+        "keterangan_lgk": "Bahan beracun tidak mudah terbakar",
+        "pengendalian_tumpahan": "Kumpulkan residu dan buang sebagai limbah logam berat.",
+        "pertolongan_pertama": "Bilas area yang terkena paparan debu dengan air mengalir selama 15 menit."
+    },
+    {
+        "nama_senyawa": "Timbal(II) Nitrat",
+        "rumus_kimia": "Pb(NO3)2",
+        "wujud": "Padat",
+        "sifat": "Toksik, Oksidator",
+        "warna": "Putih",
+        "bau": "Tidak Berbau",
+        "lgk": "5.1B",
+        "keterangan_lgk": "Bahan pengoksidasi",
+        "pengendalian_tumpahan": "Jauhkan dari bahan organik mudah nyala. Kumpulkan di wadah tertutup.",
+        "pertolongan_pertama": "Bilas mata dengan air mengalir selama minimal 15 menit. Cari pertolongan medis segera."
+    },
+    {
+        "nama_senyawa": "Toluena",
+        "rumus_kimia": "C7H8",
+        "wujud": "Cair",
+        "sifat": "Sangat Mudah Terbakar, Toksik",
+        "warna": "Bening",
+        "bau": "Khas Aromatik",
+        "lgk": "3",
+        "keterangan_lgk": "Cairan mudah terbakar",
+        "pengendalian_tumpahan": "Matikan semua sumber api/panas. Serap cairan dengan absorben inert (pasir).",
+        "pertolongan_pertama": "Bilas mata selama 15 menit. Jika terhirup, segera berpindah ke ruang dengan ventilasi terbuka."
     }
 ]
-
